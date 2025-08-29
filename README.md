@@ -1,6 +1,6 @@
 # Slack-ChatGPT-App
 
-Cloud Functions Script to talk with ChatGPT in Slack
+Cloud Functions Script to talk with ChatGPT in Slack 
 
 # Prerequisite
 
